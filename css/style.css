@@ -1,0 +1,62 @@
+.menu-principal {
+    min-height: "300px";
+    background-color: black;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.img-rounded {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.menu-text {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    color: #FFFFFF;
+  }
+
+.redes-sociales {
+    margin-bottom: 2px;
+   margin-right: 20px;
+    
+}
+
+.navbar-inverse {
+    background-color: #e0e0e0;
+}
+
+.botones {
+    
+    margin-left: 5px;
+
+}
+
+.botones2 {
+    width: 160px;
+    margin: 10px;
+}
+
+.img1 {
+    padding-top: 20px;
+}
+
+.btnsearch {
+    width:"200px";
+}
+
+
+@media (max-width: 555px) {
+    .menu-text {
+       font-size: 30px;
+       
+    }
+
+    .img-rounded {
+        width: 100px;
+    }
+}
